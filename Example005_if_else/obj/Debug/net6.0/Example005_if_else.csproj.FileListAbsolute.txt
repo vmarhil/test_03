@@ -3,3 +3,13 @@ C:\Users\Василий\Desktop\example\Example005_if_else\obj\Debug\net6.0\Exam
 C:\Users\Василий\Desktop\example\Example005_if_else\obj\Debug\net6.0\Example005_if_else.AssemblyInfoInputs.cache
 C:\Users\Василий\Desktop\example\Example005_if_else\obj\Debug\net6.0\Example005_if_else.AssemblyInfo.cs
 C:\Users\Василий\Desktop\example\Example005_if_else\obj\Debug\net6.0\Example005_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\example\Example005_if_else\bin\Debug\net6.0\Example005_if_else.exe
+C:\Users\Василий\Desktop\example\Example005_if_else\bin\Debug\net6.0\Example005_if_else.deps.json
+C:\Users\Василий\Desktop\example\Example005_if_else\bin\Debug\net6.0\Example005_if_else.runtimeconfig.json
+C:\Users\Василий\Desktop\example\Example005_if_else\bin\Debug\net6.0\Example005_if_else.dll
+C:\Users\Василий\Desktop\example\Example005_if_else\bin\Debug\net6.0\ref\Example005_if_else.dll
+C:\Users\Василий\Desktop\example\Example005_if_else\bin\Debug\net6.0\Example005_if_else.pdb
+C:\Users\Василий\Desktop\example\Example005_if_else\obj\Debug\net6.0\Example005_if_else.dll
+C:\Users\Василий\Desktop\example\Example005_if_else\obj\Debug\net6.0\ref\Example005_if_else.dll
+C:\Users\Василий\Desktop\example\Example005_if_else\obj\Debug\net6.0\Example005_if_else.pdb
+C:\Users\Василий\Desktop\example\Example005_if_else\obj\Debug\net6.0\Example005_if_else.genruntimeconfig.cache
