@@ -1,0 +1,15 @@
+C:\Users\Василий\Desktop\example\Example006_Гири\bin\Debug\net6.0\Example006_Гири.exe
+C:\Users\Василий\Desktop\example\Example006_Гири\bin\Debug\net6.0\Example006_Гири.deps.json
+C:\Users\Василий\Desktop\example\Example006_Гири\bin\Debug\net6.0\Example006_Гири.runtimeconfig.json
+C:\Users\Василий\Desktop\example\Example006_Гири\bin\Debug\net6.0\Example006_Гири.dll
+C:\Users\Василий\Desktop\example\Example006_Гири\bin\Debug\net6.0\ref\Example006_Гири.dll
+C:\Users\Василий\Desktop\example\Example006_Гири\bin\Debug\net6.0\Example006_Гири.pdb
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\Example006_Гири.csproj.AssemblyReference.cache
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\Example006_Гири.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\Example006_Гири.AssemblyInfoInputs.cache
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\Example006_Гири.AssemblyInfo.cs
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\Example006_Гири.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\Example006_Гири.dll
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\ref\Example006_Гири.dll
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\Example006_Гири.pdb
+C:\Users\Василий\Desktop\example\Example006_Гири\obj\Debug\net6.0\Example006_Гири.genruntimeconfig.cache
