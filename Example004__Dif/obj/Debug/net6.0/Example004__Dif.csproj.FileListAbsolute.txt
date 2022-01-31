@@ -1,0 +1,15 @@
+C:\Users\Василий\Desktop\example\Example004__Dif\bin\Debug\net6.0\Example004__Dif.exe
+C:\Users\Василий\Desktop\example\Example004__Dif\bin\Debug\net6.0\Example004__Dif.deps.json
+C:\Users\Василий\Desktop\example\Example004__Dif\bin\Debug\net6.0\Example004__Dif.runtimeconfig.json
+C:\Users\Василий\Desktop\example\Example004__Dif\bin\Debug\net6.0\Example004__Dif.dll
+C:\Users\Василий\Desktop\example\Example004__Dif\bin\Debug\net6.0\ref\Example004__Dif.dll
+C:\Users\Василий\Desktop\example\Example004__Dif\bin\Debug\net6.0\Example004__Dif.pdb
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\Example004__Dif.csproj.AssemblyReference.cache
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\Example004__Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\Example004__Dif.AssemblyInfoInputs.cache
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\Example004__Dif.AssemblyInfo.cs
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\Example004__Dif.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\Example004__Dif.dll
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\ref\Example004__Dif.dll
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\Example004__Dif.pdb
+C:\Users\Василий\Desktop\example\Example004__Dif\obj\Debug\net6.0\Example004__Dif.genruntimeconfig.cache
